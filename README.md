@@ -1,7 +1,7 @@
 # Dealory — Luxury Picks for Everyday Living 
 
 **Live Project:** [dealory.in](https://dealory.in)  
-**Repository:** [DaraSingh45/dealory](https://github.com/DaraSingh45/dealory)
+**Repository:** [DaraSingh45/dealory](https://github.com/DaraSingh45/Dealory)
 
 ##  Overview
 Dealory is a curated e-commerce frontend application designed to deliver a premium, high-conversion shopping experience. Built as a comprehensive personal project, it serves as a showcase of my frontend development skills, UI/UX design sensibilities, and understanding of modern web architectures. 
